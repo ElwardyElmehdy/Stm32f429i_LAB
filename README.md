@@ -1,3 +1,4 @@
 # Stm32f429i LAB
 
-![stm32f429](https://user-images.githubusercontent.com/57374612/129743092-ef37a9a7-5807-4047-8977-85d77314ac5e.jpg)
+![2506924-40](https://user-images.githubusercontent.com/57374612/129743197-93a80ad9-13a9-4e8b-89d3-b8b43e11f5bf.jpg)
+
